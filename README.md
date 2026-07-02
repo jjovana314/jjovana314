@@ -19,7 +19,7 @@ I thrive on translating complex requirements into clean code, managing direct cl
 | Domain | Technologies & Skills |
 | :--- | :--- |
 | **Backend & Architecture** | Microservices, Scalable Systems, API Design, Requirements Gathering |
-| **Frontend (Learning)** | React.js, Next.js |
+| **Frontend (Learning)** | React.js, Next.js, Angular |
 
 ---
 
