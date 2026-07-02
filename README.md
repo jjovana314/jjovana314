@@ -8,7 +8,7 @@ I thrive on translating complex requirements into clean code, managing direct cl
 
 ### 🚀 What I'm Up To
 
-*   🔭 **Current Project:** Building [Neurocyte.me](https://github.com/jjovana314/neruocyte.me) – a comprehensive full-stack application designed for tracking and analyzing neurological diseases.
+*   🔭 **Current Project:** Building [Neurocyte.me](https://github.com/jjovana314/neurocyte.me) – a comprehensive full-stack application designed for tracking and analyzing neurological diseases.
 *   🌱 **Expanding Horizons:** Deepening my knowledge in fundamentals of neurology, while expanding my tech stack into frontend development (**React.js** & **Next.js**).
 *   👯 **Collaboration:** Open to collaborating on innovative web applications (focusing on robust backend architecture).
 
@@ -25,4 +25,4 @@ I thrive on translating complex requirements into clean code, managing direct cl
 
 ### 📫 Let's Connect!
 
-*   📧 Reach out directly via email: [How to reach me](mailto:jjovana314@gmail.com)
+*   📧 Reach out directly via [email](mailto:jjovana314@gmail.com)
