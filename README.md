@@ -1,26 +1,28 @@
-## Hi there 👋
-I am Jovana Jovanović, experienced Backend Developer with over four years of hands-on experience spanning dynamic startup environments and established corporations. Proven track record of collaborating with cross-functional teams, managing direct client communication, gathering/analyzing requirements, and engineering reliable, scalable microservices architectures. Passionate about continuous learning, code quality, and driving impactful product development and project leadership within innovative engineering teams.
+## Hi there, I'm Jovana! 👋
+
+I am an experienced **Backend Developer** with over four years of hands-on experience engineering reliable, scalable microservices architectures across dynamic startups and established corporations. 
+
+I thrive on translating complex requirements into clean code, managing direct client communication, and collaborating with cross-functional teams to drive impactful product development.
 
 ---
 
-- 🔭 I’m currently working on [neruocyte.me](https://github.com/jjovana314/neruocyte.me) - which is my biggest full-stack application for tracking and analyzing nerulogical diseases
-- 🌱 I’m currently learning frontend (React.js and Next.js), fundamentals of neurology
-- 👯 I’m open for collaboration on web applications (backend side mostly)
-- 📫 You can reach me out [here](mailto:jjovana314@gmail.com)
-  
+### 🚀 What I'm Up To
+
+*   🔭 **Current Project:** Building [Neurocyte.me](https://github.com/jjovana314/neruocyte.me) – a comprehensive full-stack application designed for tracking and analyzing neurological diseases.
+*   🌱 **Expanding Horizons:** Deepening my knowledge in fundamentals of neurology, while expanding my tech stack into frontend development (**React.js** & **Next.js**).
+*   👯 **Collaboration:** Open to collaborating on innovative web applications (focusing on robust backend architecture).
+
 ---
 
-<!--
-**jjovana314/jjovana314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Focus Areas
 
-Here are some ideas to get you started:
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Backend & Architecture** | Microservices, Scalable Systems, API Design, Requirements Gathering |
+| **Frontend (Learning)** | React.js, Next.js |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Let's Connect!
+
+*   📧 Reach out directly via email: [How to reach me](mailto:jjovana314@gmail.com)
