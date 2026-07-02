@@ -1,4 +1,14 @@
 ## Hi there 👋
+I am Jovana Jovanović, experienced Backend Developer with over four years of hands-on experience spanning dynamic startup environments and established corporations. Proven track record of collaborating with cross-functional teams, managing direct client communication, gathering/analyzing requirements, and engineering reliable, scalable microservices architectures. Passionate about continuous learning, code quality, and driving impactful product development and project leadership within innovative engineering teams.
+
+---
+
+- 🔭 I’m currently working on [neruocyte.me](https://github.com/jjovana314/neruocyte.me) - which is my biggest full-stack application for tracking and analyzing nerulogical diseases
+- 🌱 I’m currently learning frontend (React.js and Next.js), fundamentals of neurology
+- 👯 I’m open for collaboration on web applications (backend side mostly)
+- 📫 You can reach me out [here](mailto:jjovana314@gmail.com)
+  
+---
 
 <!--
 **jjovana314/jjovana314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
