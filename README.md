@@ -18,7 +18,9 @@ I thrive on translating complex requirements into clean code, managing direct cl
 
 | Domain | Technologies & Skills |
 | :--- | :--- |
-| **Backend & Architecture** | Microservices, Scalable Systems, API Design, Requirements Gathering |
+| **Backend & Architecture** | Node.js (NestJS), Python (Flask), .NET Core|
+| **Databases** | MongoDB, MySQL, Redis, Postgres |
+| **DevOps** | Docker, Kubernetes, Linux (active linux user from 2018 - 2026) |
 | **Frontend (Learning)** | React.js, Next.js, Angular |
 
 ---
@@ -26,3 +28,4 @@ I thrive on translating complex requirements into clean code, managing direct cl
 ### 📫 Let's Connect!
 
 *   📧 Reach out directly via [email](mailto:jjovana314@gmail.com)
+*   💼 Or via [linkedin](https://www.linkedin.com/in/jovana-jovanovi%C4%87-308b94219/)
